@@ -12,3 +12,7 @@ DB_NAME=postgres
 DB_USER=ds
 DB_PASSWORD=13245678
 DB_PORT=5432
+
+
+
+В zip-архиве лежат процедуры
